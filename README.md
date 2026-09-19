@@ -1,5 +1,5 @@
 # 💫 About Me:
-Designing wireframing Froentend HTML CSS JS
+Full Stack Developer
 
 
 ## 🌐 Socials:
